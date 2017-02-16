@@ -1,2 +1,5 @@
 # datascience
 My repo for data science projects
+
+- NumPy:	The fundamental package for scientific computing with Python
+- Pandas:	Open Source Library providing data structures and analysis tools
